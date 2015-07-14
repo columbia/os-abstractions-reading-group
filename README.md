@@ -1,10 +1,15 @@
 # OS Abstracctions Reading Group
 
 ### Shedule
-*
+**
 *
 *
 
+
+
+
+
+###MISC
 
 ##### Binder presentation: https://www.youtube.com/watch?v=Jgampt1DOak
 
